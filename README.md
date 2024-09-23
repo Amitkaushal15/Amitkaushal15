@@ -1,4 +1,4 @@
-### Hi there, I'm Amit Kaushal 👋
+## Hi there, I'm Amit Kaushal 👋
 
 ## I'm a Penetration Tester & Bug Hunter! 👨‍💻
 

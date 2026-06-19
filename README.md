@@ -1,14 +1,10 @@
 ## Hi there, I'm Amit Kaushal 👋
 
-## I'm a Penetration Tester & Bug Hunter! 👨‍💻
-
-- 🔭 I’m currently working on Chanakya Tool.
-
-- 🌱 I’m currently learning everything related to Cybersecurity.
-
-- 👯 I’m looking to collaborate with other content creators.
-
-- 📝 I write articles on [https://medium.com/@anonymous404ak](https://medium.com/@anonymous404ak)
+## 🛡️ Cybersecurity Educator | Founder @ Off-Def Security
+🎯 Teaching Ethical Hacking, Pentest & Bug Bounty from zero to pro
+🎥 Content Creator — breaking down complex security concepts for everyone
+🔗 youtube.com/@OffDefSecurity
+📝 I write articles on [https://medium.com/@anonymous404ak](https://medium.com/@anonymous404ak)
 
 
 ### Connect with me:

@@ -5,7 +5,7 @@
 
 🎥 Content Creator — breaking down complex security concepts for everyone
 
-🔗 youtube.com/@OffDefSecurity
+🔗 https://youtube.com/@OffDefSecurity
 
 📝 I write articles on [https://medium.com/@anonymous404ak](https://medium.com/@anonymous404ak)
 

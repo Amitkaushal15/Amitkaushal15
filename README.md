@@ -2,8 +2,11 @@
 
 ## 🛡️ Cybersecurity Educator | Founder @ Off-Def Security
 🎯 Teaching Ethical Hacking, Pentest & Bug Bounty from zero to pro
+
 🎥 Content Creator — breaking down complex security concepts for everyone
+
 🔗 youtube.com/@OffDefSecurity
+
 📝 I write articles on [https://medium.com/@anonymous404ak](https://medium.com/@anonymous404ak)
 
 
